@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+#form1{
+    border: 1px solid black;
+    width: 600px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: #B6EB7A;
+}
+body{
+    background-image:url("pizza.jpeg");
+}
+.flname{
+    width: 150px;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 12px;
+    border: none;
+}
+.tarea{
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 12px;
+    border: none;
+}
+#btn{
+    width: 200px;
+    border-radius: 12px;
+    border: none;
+    color:#4F8A8B ;
+    background-color:#0F67B1 ;
+    padding: 12px;
+}
+#btn:hover{
+    background-color: red;
+    color: #ffff;
+}
+.ddown{
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 12px;
+    border: none;
+}
+.b{
+    font-family: "Playwrite GB S";
+}
+#o{
+    text-align: center;
+    font-family: "Playwrite GB S";
+}
